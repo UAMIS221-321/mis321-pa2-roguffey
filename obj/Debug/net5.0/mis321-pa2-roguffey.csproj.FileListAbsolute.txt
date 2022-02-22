@@ -1,0 +1,16 @@
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\obj\Debug\net5.0\mis321-pa2-roguffey.csproj.AssemblyReference.cache
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\obj\Debug\net5.0\mis321-pa2-roguffey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\obj\Debug\net5.0\mis321-pa2-roguffey.AssemblyInfoInputs.cache
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\obj\Debug\net5.0\mis321-pa2-roguffey.AssemblyInfo.cs
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\obj\Debug\net5.0\mis321-pa2-roguffey.csproj.CoreCompileInputs.cache
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\bin\Debug\net5.0\mis321-pa2-roguffey.exe
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\bin\Debug\net5.0\mis321-pa2-roguffey.deps.json
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\bin\Debug\net5.0\mis321-pa2-roguffey.runtimeconfig.json
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\bin\Debug\net5.0\mis321-pa2-roguffey.runtimeconfig.dev.json
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\bin\Debug\net5.0\mis321-pa2-roguffey.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\bin\Debug\net5.0\ref\mis321-pa2-roguffey.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\bin\Debug\net5.0\mis321-pa2-roguffey.pdb
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\obj\Debug\net5.0\mis321-pa2-roguffey.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\obj\Debug\net5.0\ref\mis321-pa2-roguffey.dll
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\obj\Debug\net5.0\mis321-pa2-roguffey.pdb
+C:\Users\Reidg\OneDrive\Desktop\source\repos\Spring-22\mis321-pa2-roguffey\obj\Debug\net5.0\mis321-pa2-roguffey.genruntimeconfig.cache

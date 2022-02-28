@@ -74,24 +74,29 @@ namespace mis321_pa2_roguffey
             }
 
             var r = new Random();
-            int n = r.Next(0,2);
+            int n = r.Next(1,2);
 
             while (myCharacter.Health > 0 && myOpponent.Health > 0)
             {
                 
-                if(n == 0)
+                if(n == 1)
                 {
                     myCharacter.attackBehavior.Attack(myCharacter, myOpponent);
                     myOpponent.Stats();
-                    myOpponent.attackBehavior.Attack(myOpponent, myCharacter);
-                    myCharacter.Stats();
+                    if(myOpponent.Health > 0)
+                    {
+                        myOpponent.attackBehavior.Attack(myOpponent, myCharacter);
+                        myCharacter.Stats();
+                    }
                 } 
                 else
                 {
                     myOpponent.attackBehavior.Attack(myOpponent, myCharacter);
                     myCharacter.Stats();
-                    myCharacter.attackBehavior.Attack(myCharacter, myOpponent);
-                    myOpponent.Stats();
+                    if(myCharacter.Health > 0){
+                        myCharacter.attackBehavior.Attack(myCharacter, myOpponent);
+                        myOpponent.Stats();
+                    }
                 }
                 
             }
